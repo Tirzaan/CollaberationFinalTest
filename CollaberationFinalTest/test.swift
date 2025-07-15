@@ -1,3 +1,10 @@
+//
+//  test.swift
+//  CollaberationFinalTest
+//
+//  Created by Tirzaan on 7/15/25.
+//
+
 import SwiftUI
 
 struct test: View {
@@ -20,4 +27,8 @@ struct test: View {
             Text("Hello, world!")
         }
     }
+}
+
+#Preview {
+    test()
 }
