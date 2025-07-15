@@ -4,6 +4,7 @@
 //
 //  Created by Tirzaan on 7/15/25.
 //
+// Can you change self.timestamp to timestamp
 
 import Foundation
 import SwiftData
